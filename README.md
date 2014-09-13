@@ -21,10 +21,6 @@ Capturas de pantalla
 
 ![alt img](https://github.com/svanegas/checkers/blob/master/screenshots/new_game.png)
 
-* Iniciando una ronda de juego
-
-![alt img](https://github.com/svanegas/checkers/blob/master/screenshots/new_game.png)
-
 * Juego
 ![alt img](https://github.com/svanegas/checkers/blob/master/screenshots/gameplay.png)
 
