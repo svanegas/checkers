@@ -22,7 +22,9 @@ Capturas de pantalla
 ![alt img](https://github.com/svanegas/checkers/blob/master/screenshots/new_game.png)
 
 * Juego
+* 
 ![alt img](https://github.com/svanegas/checkers/blob/master/screenshots/gameplay.png)
 
 * Mover una ficha
+* 
 ![alt img](https://github.com/svanegas/checkers/blob/master/screenshots/move.png)
